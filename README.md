@@ -21,6 +21,6 @@
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/mrkaf_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrkaf_" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrkaf_" height="30" width="40" /></a>
 <a href="https://instagram.com/keshavarz_28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="keshavarz_28" height="30" width="40" /></a>
 </p>
