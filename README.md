@@ -2,8 +2,9 @@
 <h3 align="center">A passionate Web Developer stepping into infinity ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Sepahan+Fan+%F0%9F%92%9B;Always+Coding+Something+Cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&color=002873&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Sepahan+Fan+%F0%9F%92%9B;Always+Coding+Something+Cool!" alt="Typing SVG" />
 </p>
+
 
 ---
 
