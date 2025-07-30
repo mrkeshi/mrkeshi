@@ -18,15 +18,13 @@
 
 ---
 
-## 📈 GitHub Stats & Achievements
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mrkeshi&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrkeshi&theme=algolia&row=2&column=4" />
-</p>
+
 
 ---
 
