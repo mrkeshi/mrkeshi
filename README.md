@@ -2,15 +2,14 @@
 <h3 align="center">A passionate Web Developer stepping into infinity ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&color=002873&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Sepahan+Fan+%F0%9F%92%9B;Always+Coding+Something+Cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&color=002873&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Always+Coding+Something+Cool!" alt="Typing SVG" />
 </p>
-
 
 ---
 
 ## 🔮 About Me
 
-- 💛 I'm a die-hard **Sepahan FC** fan!
+- 👨‍💻 I'm **Alireza**, a **Web Developer**.
 - 🤔 Sometimes I’m not even sure what I'm currently learning 😅
 - ⚡ Even when I'm tired, I still keep coding — one line at a time.
 
@@ -23,8 +22,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=mrkeshi&theme=tokyonight&hide_border=true" />
 </p>
-
-
 
 ---
 
@@ -53,6 +50,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neo4j/neo4j-original-wordmark.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original-wordmark.svg" width="40" height="40" />&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40" height="40" />
+</p>
+
+---
+
+## 📊 My Coding Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrkeshi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkeshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrkeshi&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
 </p>
 
 ---
