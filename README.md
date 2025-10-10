@@ -54,18 +54,53 @@
 
 ---
 
-## 📊 My Coding Stats
+## 💎 Cool GitHub Boxes
 
+### 📦 1. Profile Stats Card
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrkeshi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mrkeshi&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+### 📦 2. Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkeshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkeshi&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
+---
+
+### 📦 3. Contribution Graph
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrkeshi&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrkeshi&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+### 📦 4. WakaTime (Coding Hours)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=mrkeshi&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📦 5. GitHub Trophy
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrkeshi&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+### 📦 6. Visitor Counter
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrkeshi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+---
+
+### 📦 7. GitHub Achievements
+<p align="center">
+  <img src="https://github-profile-achievements.vercel.app/api/list?username=mrkeshi" />
 </p>
 
 ---
