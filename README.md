@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web Developer stepping into infinity ⚡</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=700&color=002873&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Always+Coding+Something+Cool!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=700&color=002873&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;Always+Coding+Something+Cool!" alt="Typing SVG" />
 </p>
 
 ---
@@ -20,7 +20,16 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mrkeshi&theme=tokyonight&hide_border=true" />
+  <!-- 🔧 Fixed: use the new domain (demolab.com) instead of herokuapp -->
+  <img src="https://streak-stats.demolab.com?user=mrkeshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<!-- Optional: extra stat cards (safe to keep or remove) -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrkeshi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkeshi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -54,20 +63,18 @@
 
 ---
 
-
-
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="https://instagram.com/keshavarz_28" target="_blank">
+  <a href="https://instagram.com/keshavarz_28" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=twitter&logoColor=white" />
+  <a href="https://x.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-111111.svg?logo=x&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://t.me/pares28" target="_blank">
+  <a href="https://t.me/pares28" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" />
   </a>
 </p>
