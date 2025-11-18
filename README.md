@@ -19,10 +19,6 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <!-- 🔧 Fixed: use the new domain (demolab.com) instead of herokuapp -->
-  <img src="https://streak-stats.demolab.com?user=mrkeshi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
 
 <!-- Optional: extra stat cards (safe to keep or remove) -->
 <p align="center">
