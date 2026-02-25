@@ -1,99 +1,105 @@
-<h1 align="center">Hi 👋 I'm Alireza</h1>
-<h3 align="center">Full-Stack Web Developer • Building Modern Web Experiences ⚡</h3>
+<!-- =========================
+     GitHub Profile README
+     Author: Alireza
+     ========================= -->
+
+<h1 align="center">Hi, I'm Alireza 👋</h1>
+<p align="center">
+  <b>Full-Stack Web Developer</b> • Building modern web apps • Learning every day
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=700&color=002873&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Building+Modern+Web+Apps;Always+Learning+New+Things" />
+  <a href="https://t.me/pares28" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Contact-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mrkeshi&style=flat-square&color=blue" alt="profile views" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack%20Web%20Development-0ea5e9?style=flat-square" alt="focus" />
+  <img src="https://img.shields.io/badge/Mindset-Consistency%20%26%20Growth-22c55e?style=flat-square" alt="mindset" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-I'm **Alireza**, a developer passionate about building modern web applications and continuously improving my skills.
-
-- 🚀 Focused on **full-stack development**
-- 📚 Constantly learning new technologies
-- 💡 Turning ideas into real projects
-- ⚡ Coding consistently and improving every day
-
-> *Don’t stop when you're tired. Rest if needed, but never quit.*
+- I’m **Alireza**, a **Full-Stack Web Developer**
+- I enjoy turning ideas into real projects and building modern web applications
+- I try to code consistently and improve every day — even if progress is small
 
 ---
 
-# 🧰 Tech Stack
+## 🧰 Tech Stack
 
-### 💻 Core
+### Frontend
 <p>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,tailwind,bootstrap,sass&perline=9" />
 </p>
 
-### ⚡ Frontend
+### Backend
 <p>
-<img src="https://img.shields.io/badge/Vue-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=python,django&perline=9" />
 </p>
 
-### 🧠 Backend
+### Databases
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb&perline=9" />
+  <!-- Neo4j + Cassandra icon may not exist in skillicons; kept as badges below -->
 </p>
 
-### 🗄 Databases
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white"/>
-<img src="https://img.shields.io/badge/Cassandra-1287B1?style=for-the-badge&logo=apache-cassandra&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cassandra-1287B1?style=flat-square&logo=apachecassandra&logoColor=white" />
 </p>
 
-### ⚙️ Tools
+### Tools
 <p>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=vite,webpack&perline=9" />
+</p>
+
+### Programming (general knowledge)
+<p>
+  <img src="https://skillicons.dev/icons?i=c,java&perline=9" />
 </p>
 
 ---
 
-# 📊 GitHub Stats
+## 🎯 What I’m Working On
+
+- Building modern full-stack web applications
+- Improving my TypeScript and Vue/Nuxt skills
+- Writing cleaner, scalable backend code with Django
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mrkeshi&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=mrkeshi&show_icons=true&hide_title=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkeshi&layout=compact" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrkeshi&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&row=1&column=6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME" />
 </p>
 
 ---
 
-# 🌐 Connect With Me
+## 🤝 Connect
 
-<p align="center">
-
-<a href="https://instagram.com/keshavarz_28">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://x.com/">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="https://t.me/pares28">
-<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-</p>
+- Telegram: https://t.me/pares28
 
 ---
 
 <p align="center">
-✨ Always building • Always learning
+  ⭐️ <i>Consistency beats intensity — small progress every day.</i>
 </p>
