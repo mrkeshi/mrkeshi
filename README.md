@@ -62,9 +62,12 @@ I try to code consistently and improve every day — even if progress is small.
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mrkeshi&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrkeshi&layout=compact)
+<p align="center">
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=mrkeshi" />
+</p>
+
+
 
 ---
 
